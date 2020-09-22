@@ -1,0 +1,34 @@
+This is my first submission to PSC.  After frequent reformatting of my system, I had to search OCX,DLL,TLB,OLB and ActiveX EXE files to re-register by copying them individually to Windows System / System32 directory then run Regsvr32.Exe to register.  This is really a tedious job for any programmer.  So I decided to make this little utility for finding DLL/OCX/TLB/OLB/ActiveX EXE files in a Drive / Directory, then to register / un-register them.
+
+This will create a LOG file in Application directory under \LOG directory if any file is registered / Un-registered ( provided, user presses Report Button ).
+
+Frankly speaking, I have designed the User Interface but most of the codes / controls are taken from PSC only.  I am grateful to all of those great programmers who have taught me how to write a program by giving their source codes free in PSC or subsequent sites.
+
+I will be grateful if I get a feedback on my job ( bugs, must be there ) , so that corrections can be made.
+
+Thanks, and hope u will Vote me.
+Alok Mukherjee
+EastWood Business Systems
+E-Mail: rch_castwood@sancharnet.in
+
+##############################
+##          Credits:        ##
+##############################
+
+CHAMELEON BUTTON 2.0.6                  
+copyright ©2001-2002 by gonchuki  
+e-mail: gonchuki@yahoo.es
+
+cRegistry, cLogo
+Steve McMahon from vbAccelerator
+URL: http://vbaccelerator.com
+
+RegisterComponent ( Register ActiveX DLL/EXE/OCX )
+Vasudevan S. Helena, MT
+
+FindFilesAPI
+KPD-Team 1999
+E-Mail: KPDTeam@Allapi.net
+URL: http://www.allapi.net/
+
+Source of Info : http://www.Planet-Source-Code.com/vb/
